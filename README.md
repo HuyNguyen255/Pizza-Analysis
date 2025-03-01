@@ -193,4 +193,28 @@ WHERE Rank BETWEEN 1 AND 3
 
 ## Conclusion (Kết luận) 📝
 
+### **Tổng quan**
+
+Trong năm 2015, tổng doanh thu bán pizza mà cửa hàng thu được đạt khoảng 817.86 nghìn USD. Ước tính doanh thu trung bình đạt khoảng 68.16 nghìn USD/tháng.
+Tổng Doanh số (sản lượng pizza) bán được ước đạt sấp xỉ khoảng 50 nghìn chiếc bánh pizza (49,574 cái)
+Số lượng đơn đặt hàng (số lượng orders) đạt khoảng 21 nghìn đơn (21,350 đơn), qua đó có thể ước tính được trung có khoảng 60 đơn/ngày. Mặt khác, trung bình trên 1 đơn hàng thì gồm 2 chiếc bánh pizza (với mỗi lần khách hàng order thì trung bình khách hàng kêu 2 chiếc bánh pizza/1 lần order)
+
+### **Doanh số**
+
+**- Theo thời gian:** 
+
+Phần lớn biến động doanh trong năm vửa rồi là tương đối biến động không lớn (phần lớn đi ngang) nếu xét theo quý. Khi xét theo tháng thì có sự biến động tăng giảm xen kẻ lẫn nhau trong vòng 2 quý đầu (từ tháng 1 đến tháng 7). Biên động tăng dao động trong khoảng từ 3.5% - 8.5%, còn biên độ giảm dao động trong biên độ khoảng 2.0% - 7.0%. Các tháng tiếp sau đo ghi nhân sự sút giảm liên tục trong quý 3 và có hồi phục khoảng 9.95% trong tháng 11 nhưng lại quay đầu giảm tháng tiếp đó 8.09%
+
+**- Theo dòng sản phẩm và sản phẩm:** 
+
++ Dòng sản phẩm: 
+Dòng bánh Pizza đóng góp doanh thu lớn nhất là loại Classic ghi nhận đạt 220.05 nghìn USD (chiếm 26.91%), tiếp đến là loại Supreme đạt 208.20 nghìn USD (chiếm 25.46%), xếp thứ 3 là loại Chicken đạt 195.92 nghìn USD (chiếm 23.96%) và cuối cùng là loại Veggie đóng góp 193.69 nghìn USD (chiếm 23.68%).
++ Loại sản phẩm:
+Có rất nhiều loại sản phẩm pizza khác nhau nhưng chỉ liệt kê 5 loại pizza được bán chạy nhất nhưng được sắp xếp theo doanh thu đóng góp. Doanh thu đóng lớn nhất, đạt khoảng 43.43 nghìn USD (chiếm 21.65%) của The Thei Chicken Pizza, thứ 2 là loại pizza The Barbecue Chicken Pizza đạt khoảng 42.77 nghìn USD (chiếm khoảng 21.32%), xếp thứ 3 là The California Chicken Pizza đạt 41.41 nghìn USD (chiếm 20.64%) và 2 vị trí tiếp theo là The Classic Deluxe Pizza và The Spicy Italian Pizza lần lượng đạt 31.18 nghìn USD (chiếm 19.03%) và 34.83 nghìn USD (chiếm 17.36%).
+
+## Hình ảnh từ file Power BI 📊
+
+![Dashboard](Pictures/Dashboard.png)
+
+![Overview](Pictures/Overview.png)
 
