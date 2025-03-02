@@ -212,7 +212,7 @@ Dòng bánh Pizza đóng góp doanh thu lớn nhất là loại Classic ghi nh�
 + Loại sản phẩm:
 Có rất nhiều loại sản phẩm pizza khác nhau nhưng chỉ liệt kê 5 loại pizza được bán chạy nhất nhưng được sắp xếp theo doanh thu đóng góp. Doanh thu đóng lớn nhất, đạt khoảng 43.43 nghìn USD (chiếm 21.65%) của The Thei Chicken Pizza, thứ 2 là loại pizza The Barbecue Chicken Pizza đạt khoảng 42.77 nghìn USD (chiếm khoảng 21.32%), xếp thứ 3 là The California Chicken Pizza đạt 41.41 nghìn USD (chiếm 20.64%) và 2 vị trí tiếp theo là The Classic Deluxe Pizza và The Spicy Italian Pizza lần lượng đạt 31.18 nghìn USD (chiếm 19.03%) và 34.83 nghìn USD (chiếm 17.36%).
 
-## Hình ảnh từ file Power BI 📊
+## [Hình ảnh từ file Power BI](https://github.com/HuyNguyen255/Pizza-Analysis/blob/704ceac0f7a4089d8bcdc51597f320c962a506e9/Pizza%20Sales%20Dashboard.pbix)
 
 ![Dashboard](Pictures/Dashboard.png)
 
